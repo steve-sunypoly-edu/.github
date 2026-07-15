@@ -26,3 +26,35 @@ courses.
 **Steve Schneider**  
 Professor, SUNY Polytechnic Institute  
 Co-Director, Artificial Intelligence Exploration Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
